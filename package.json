@@ -45,8 +45,6 @@
     "iconv-lite": "^0.6.3"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/git": "^10.0.0",
     "@types/node": "^24.0.0",
     "semantic-release": "^24.0.0",
     "tsup": "^8.0.0",
